@@ -12,6 +12,7 @@ after I will add screen shots here
 Tech used 
 html ,css
 Google fonts [cabin](https://fonts.google.com/specimen/Cabin?query=cabin)
+font awsome [script for footer](https://fontawesome.com/kits/0f96215e04/use)
 -------------
 ---------------
 Testing section
