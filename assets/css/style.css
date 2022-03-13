@@ -2,6 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Cabin:ital@0;1&display=swap'); 
 
 body{
-    background-color: red;
+    background-color: red; /*temporary color to check css is working */
     font-family: cabin, sans-serif;
 }

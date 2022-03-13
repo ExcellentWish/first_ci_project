@@ -9,9 +9,12 @@ after I will add screen shots here
 --------------------------------------
 ---------------------------------------
 Tech used 
+
+Google fonts [cabin](https://fonts.google.com/specimen/Cabin?query=cabin)
 -------------
 ---------------
 Testing section
+Used a temporary red background-color in css to test my css links
 -----------------------
 -----------------------------
 After what bugs there were and fixs
@@ -26,6 +29,8 @@ How the project is on github and how to download.
 -----------
 -------------
 Credits 
+Google fonts [cabin](https://fonts.google.com/specimen/Cabin?query=cabin)
+Love Running
 content were code was found 
 Media
 Were pictures were found 
