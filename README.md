@@ -8,8 +8,9 @@ and the 2nd one here using the UX section of codeinstitute to expalin it in more
 after I will add screen shots here 
 --------------------------------------
 ---------------------------------------
-Tech used 
 
+Tech used 
+html ,css
 Google fonts [cabin](https://fonts.google.com/specimen/Cabin?query=cabin)
 -------------
 ---------------
