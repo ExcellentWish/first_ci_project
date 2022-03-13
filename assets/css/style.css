@@ -5,11 +5,19 @@ body{
     background-color: red; /*temporary color to check css is working */
     font-family: cabin, sans-serif;
 }
-/* want to move the nav location*/
+/* want to move the nav location like the love running*/
 #menu {
     float: right;
 }
 
 #menu li{
     display: inline;
+}
+
+a {
+    color: #000; /*temporary color*/
+}
+
+a:hover{
+    color: #000fff; /*temporary color*/
 }
