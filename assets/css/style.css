@@ -5,3 +5,11 @@ body{
     background-color: red; /*temporary color to check css is working */
     font-family: cabin, sans-serif;
 }
+/* want to move the nav location*/
+#menu {
+    float: right;
+}
+
+#menu li{
+    display: inline;
+}

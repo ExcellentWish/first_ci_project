@@ -32,6 +32,7 @@ How the project is on github and how to download.
 -------------
 Credits 
 Google fonts [cabin](https://fonts.google.com/specimen/Cabin?query=cabin)
+[Font awesome](https://fontawesome.com/kits/0f96215e04/use)for social media
 Love Running
 content were code was found 
 Media
