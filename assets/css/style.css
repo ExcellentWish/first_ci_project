@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Cabin:ital@0;1&display=swap'); 
 
 body{
-    background-color: red; /*temporary color to check css is working */
+    background-color: #C8CBAC; /*temporary color to check css is working */
     font-family: cabin, sans-serif;
 }
 /* want to move the nav location like the love running*/
@@ -20,4 +20,31 @@ a {
 
 a:hover{
     color: #000fff; /*temporary color*/
+}
+header{
+    background-color: #305244;
+    color:aliceblue;
+    
+}
+header  h1 {
+    color:aliceblue;
+}
+#home-link {
+    margin: 0;
+    padding: 0;
+    float: left;
+    text-decoration: none;
+}
+
+#menu{
+    float: right;
+    text-decoration: none;
+}
+
+#main-info {
+    overflow: hidden;
+    position: relative;
+}
+footer {
+    background-color: #E74323;
 }

@@ -9,24 +9,25 @@ after I will add screen shots here
 --------------------------------------
 ---------------------------------------
 
-Tech used 
+## Tech used 
 html ,css
 Google fonts [cabin](https://fonts.google.com/specimen/Cabin?query=cabin)
 font awsome [script for footer](https://fontawesome.com/kits/0f96215e04/use)
 -------------
 ---------------
-Testing section
+### Testing section
 Used a temporary red background-color in css to test my css links
 -----------------------
 -----------------------------
 After what bugs there were and fixs
+removed "/" from /assets/css/style.css to assets/css/style.css so git pages would work
 
 Validator testing
 Using [Validator W3](https://validator.w3.org/)
 and CSS using [Jigsaw validator](https://jigsaw.w3.org/css-validator/)
 -----------------------------------
 -----------------------------
-Deployment
+#### Deployment
 How the project is on github and how to download.
 -----------
 -------------
@@ -34,10 +35,10 @@ Credits
 Google fonts [cabin](https://fonts.google.com/specimen/Cabin?query=cabin)
 [Font awesome](https://fontawesome.com/kits/0f96215e04/use)for social media
 Love Running
-content were code was found 
-Media
-Were pictures were found 
+"content were code was found" 
+"Media"
+"Were pictures were found" 
 ------
-Acknoledge who helped 
+##### Acknoledge who helped 
 
 
