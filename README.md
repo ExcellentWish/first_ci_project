@@ -1,7 +1,7 @@
 # my first website project README.md template 
 My website [live here](https://)
 
-Here will be 2 paragraphs about the website 
+Here will be 2 paragraphs about the website / a website to fans of Cult Called Man an Irish retro pop rock group.
 
 and the 2nd one here using the UX section of codeinstitute to expalin it in more detail
 
@@ -19,6 +19,8 @@ font awsome [script for footer](https://fontawesome.com/kits/0f96215e04/use)
 Used a temporary red background-color in css to test my css links
 issue with header h1 position - removed float left with chrome dev tools and added posisiton
 Issue with nav links not going to top right of the page -
+images in Discography differnt sizes
+
 -----------------------
 -----------------------------
 After what bugs there were and fixs
@@ -40,6 +42,7 @@ Love Running
 "content were code was found" 
 "Media"
 "Were pictures were found" 
+Pictures from bandcamp website.
 ------
 ##### Acknoledge who helped 
 
