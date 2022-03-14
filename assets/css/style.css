@@ -62,11 +62,11 @@ a:hover{
  }
  .cult-theme{
     height: 550px;
-    width:100%;
-     background-image: url('../images/cult-called-man-logo.jpg');
-     background-repeat: no-repeat;
+    width: 100%;
+     background-image: url('../images/cult-called-man-landscape.jpg');
+     background-repeat: repeat;
      background-position: center center;
-     background-size: cover;
+     background-size: 100%;
   
  }
 
@@ -80,4 +80,9 @@ footer {
 .social-networks {
     text-decoration: none;
     display: inline;
+}
+
+.album {
+    height: 600px;
+    width:600px
 }
