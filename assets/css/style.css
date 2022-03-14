@@ -15,16 +15,20 @@ body{
 header{
     background-color: #95C5AB;
     width: 100%;
-    height: 40px; 
+    height: 100px; 
+    top: 0;
     position: fixed;    
 }
 #home-link {
     float: left;
     display: inline; 
+    margin-right: 30px;
    }
+
 /* want to move the nav location like the love running*/
 #menu {
     float: right;
+  
 }
 
 #menu li{
@@ -35,6 +39,8 @@ header{
 
 #list-menu {
     line-height: 60px;
+    top: 0;
+    right: 0;
 }
 
 a {
@@ -45,14 +51,19 @@ a {
 a:hover{
     color: #000fff; /*temporary color*/
 }
+/* Start of main body*/
+#cult-fiction {
+    height: 500px;
+    width: 100%;
+   
+ }
+ .cult-theme{
+     height:500px;
+     width:100%;
+     background-image: url('../images/cult-called-man-logo.jpg');
+     
+ }
 
-
-
-
-#main-info {
-    top: 200px;
-    position: relative;
-}
 footer {
     background-color: #E74323;
     position: absolute;
