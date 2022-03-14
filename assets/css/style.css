@@ -16,6 +16,7 @@ body{
 
 a {
     color: #000; /*temporary color*/
+    text-decoration: none;
 }
 
 a:hover{
@@ -36,7 +37,7 @@ header  h1 {
     text-decoration: none;
 }
 
-#menu{
+#menu {
     float: right;
     text-decoration: none;
 }
@@ -47,4 +48,11 @@ header  h1 {
 }
 footer {
     background-color: #E74323;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%
+}
+.social-networks {
+    text-decoration: none;
 }
