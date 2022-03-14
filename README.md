@@ -17,6 +17,7 @@ font awsome [script for footer](https://fontawesome.com/kits/0f96215e04/use)
 ---------------
 ### Testing section
 Used a temporary red background-color in css to test my css links
+issue with header h1 position - removed float left with chrome dev tools
 -----------------------
 -----------------------------
 After what bugs there were and fixs
