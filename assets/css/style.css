@@ -27,7 +27,8 @@ header{
 #home-link {
     float: left;
     display: inline; 
-    margin-right: 30px;
+    margin-left: 4px;
+    margin-top: 4px;
     background-color: #95C5AB;
    }
 
@@ -60,10 +61,10 @@ a:hover{
     color: #000fff; /*temporary color*/
 }
 /* Start of main body*/
+
 #cult-fiction {
-    height: 600px;
+    height: 550px;
     max-width: 100%;
-    
    
  }
  .cult-theme{
@@ -75,22 +76,40 @@ a:hover{
      background-size: 100%;
   
  }
-
-footer {
-    background-color: #E74323;
-    position: relative;
-    bottom: 0;
-    left: 0;
-    width: 100%
-}
-.social-networks {
-    text-decoration: none;
-    display: inline;
+ /* information parts*/
+#info-summary {
+    margin: 0 auto;
 }
 
+.left-paragraph {
+    padding-top: 30px;
+    width: 25%;
+    float: left;
+}
+
+.right-paragraph {
+    padding-top: 30px;
+    width: 25%;
+    float: right;
+}
+.center-video{
+    width: 25%;
+    margin: 0 auto;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+
+#discography {
+    margin: 0 auto;
+    padding: 0;
+    border-top: 5rem;
+    padding-top: 5rem;
+}
 #discography h2{
     border-top: 5rem;
     padding-top: 5rem;
+   
   }
 
 
@@ -122,6 +141,17 @@ footer {
       
 }
 
+footer {
+    background-color: #E74323;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    width: 100%
+}
+.social-networks {
+    text-decoration: none;
+    display: inline;
+}
   /* Anything udner 1024px */
 @media screen and (max-width: 1024px) {
     .album-covers {
