@@ -135,23 +135,26 @@ a:hover{
     object-fit: cover;
   }
 
-  
 
-  .signup-form p {
+.signup-form p {
       text-transform: uppercase;
       
 }
 .gig-form {
     border: 1px solid black;
-    padding-top: 30px;
-    width: 25%;
+    padding: 95px;
     float: left;
+    margin: 0 auto;
+    background-color: rgba(60, 60, 60, 0.6);
+    max-width: 400px;
+   
     
 }
 
 .band-photo {
+    clear:right;
     background-image: url("../images/cult-called-man-band.jpg");
-    height: 400px;
+    height: 300px;
     width: 50%;
     border:1px solid black;
     border-top: 5px;
@@ -163,7 +166,7 @@ a:hover{
     background-position: center center;
     background-size: 100%;
     margin:0 auto;
-    margin-right: 10rem;
+    margin-right: 0;
     
 }
 
