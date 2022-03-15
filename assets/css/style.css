@@ -95,20 +95,20 @@ a:hover{
 .center-video{
     width: 25%;
     margin: 0 auto;
-    border: 1px solid black;
-    border-radius: 50%;
+    
+    
 }
 
 
 #discography {
     margin: 0 auto;
     padding: 0;
-    border-top: 5rem;
-    padding-top: 5rem;
+    color:#fff;
+    background-color: #305244;
 }
 #discography h2{
-    border-top: 5rem;
-    padding-top: 5rem;
+    
+    padding-top: 4rem;
    
   }
 
@@ -134,7 +134,11 @@ a:hover{
     object-fit: cover;
   }
 
-  
+  #signup {
+      border: 1px solid black;
+      height: 100px;
+      
+  }
 
   .signup-form p {
       text-transform: uppercase;
