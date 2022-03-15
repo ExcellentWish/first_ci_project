@@ -1,11 +1,22 @@
-# my first website project README.md template 
+# Cult Called Man
 My website [live here](https://)
 
-Here will be 2 paragraphs about the website / a website to fans of Cult Called Man an Irish retro pop rock group.
+Project Portfolio 1- HTML and CSS Essentials - Code Institute.
 
-and the 2nd one here using the UX section of codeinstitute to expalin it in more detail
+The project will cover  my favorite music group.
+Its aim is to highlight there music, artistic style and music presence.
 
-after I will add screen shots here 
+The idea of the project is to showcase there music to fans and newbies while making it as user friendly as I can.
+Cult Called Man an Irish retro pop rock group. I want to have a place were fans and newbies can get all of the bands music in one place as they are found on different websites online. I want to tell people of my favorite Irish band and let them listen to them and if they wanted they can sign up for a gig guide that would be sent to there email.
+
+I want to achieve an easy and convient place for people to find all of the bands music. I want to tell people of there music by having a discography, so the user can click and have there music. I will be using the bands bandcamp website, Spotify and Youtube. I will have there links to social media platforms
+
+With the structure of the site. I will have it in one page for the convenience of the user. This will also be quicker then changing from differnt pages. I will lock the header with a navigation bar that will follow the user across the page so the user can navigate the page easily.
+
+I will present the information by using pictures and video. This way the user can see the type of band they are listening too. I will be using the theme of there Cult Fiction album across the page as they are bright colours that contrast nicely and are easy to look at from a users perspective. Cult Fiction is also there most popular album so it may be recognisable to users who are fans of the band already.
+
+
+
 --------------------------------------
 ---------------------------------------
 
@@ -19,7 +30,8 @@ font awsome [script for footer](https://fontawesome.com/kits/0f96215e04/use)
 Used a temporary red background-color in css to test my css links
 issue with header h1 position - removed float left with chrome dev tools and added posisiton
 Issue with nav links not going to top right of the page -
-images in Discography differnt sizes
+images in Discography differnt sizes - fix upload with same resolution
+header nav would overlap discography- fix by adding margin and padding top
 
 -----------------------
 -----------------------------
