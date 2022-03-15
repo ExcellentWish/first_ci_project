@@ -88,6 +88,11 @@ footer {
     display: inline;
 }
 
+#discography h2{
+    border-top: 5rem;
+    padding-top: 5rem;
+  }
+
 
 .album-covers {
     clear: both;
@@ -110,9 +115,7 @@ footer {
     object-fit: cover;
   }
 
-  .signup-form {
-
-  }
+  
 
   .signup-form p {
       text-transform: uppercase;
