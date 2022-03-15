@@ -109,7 +109,15 @@ footer {
     height: 100%;
     object-fit: cover;
   }
-  
+
+  .signup-form {
+
+  }
+
+  .signup-form p {
+      text-transform: uppercase;
+      
+}
 
   /* Anything udner 1024px */
 @media screen and (max-width: 1024px) {
