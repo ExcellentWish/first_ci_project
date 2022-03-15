@@ -88,9 +88,10 @@ footer {
     display: inline;
 }
 
+
 .album-covers {
     clear: both;
-    --gap: 16px;
+    --gap: 5px;
     --num-cols: 4;
     --row-height: 300px;
   
