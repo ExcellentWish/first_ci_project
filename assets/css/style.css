@@ -114,6 +114,7 @@ a:hover{
     color:#fff;
     background-color: #305244;
     margin-bottom: 1px;
+    clear:left;
 }
 #discography h2{
     margin-top: 0;
@@ -228,9 +229,20 @@ footer {
 }
   /* Anything udner 1200px */
 @media screen and (max-width: 1200px) {
+    header{
+        position: fixed;
+    }
+    #discography{
+        clear: left;
+    }
     #cult-fiction{
         height: 600px;
+        width: 100%;
     }
+    .cult-theme{
+        width: 100%;
+    }
+    
     .album-covers {
         width:inherit;
       --num-cols: 2;
@@ -255,10 +267,17 @@ footer {
         clear: both;
         width: 100%;
         float:left;
-        vertical-align: middle;
+        
     }
     #signup{
         margin-top: 1rem;
         width: inherit;
+    }
+    .band-photo {
+        clear:left;
+        float: left;
+    }
+    footer{
+        clear:both;
     }
   }
