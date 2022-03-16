@@ -53,6 +53,7 @@ LO5 Test and deploy a front-end web application to a Cloud platform
 html ,css
 Google fonts [cabin](https://fonts.google.com/specimen/Cabin?query=cabin)
 font awsome [script for footer](https://fontawesome.com/kits/0f96215e04/use)
+Bitly for shorter urls for iframe
 -------------
 ---------------
 ### Testing section

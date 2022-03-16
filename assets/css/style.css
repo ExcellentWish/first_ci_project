@@ -176,8 +176,16 @@ footer {
     width: 100%
 }
 .social-networks {
+    font-size: xxx-large;
+    padding: 10px;
     text-decoration: none;
-    display: inline;
+    text-align: center;
+    list-style: none;    
+}
+
+.social-networks li {
+    display: inline-block;
+    padding: 10px 50px;
 }
   /* Anything udner 1024px */
 @media screen and (max-width: 1024px) {
