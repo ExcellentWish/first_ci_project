@@ -142,11 +142,18 @@ a:hover{
 }
 .gig-form {
     border: 1px solid black;
-    padding: 95px;
+    margin: 1em;
+    padding-bottom: 1em ;
     float: left;
     margin: 0 auto;
     background-color: rgba(252,123,88, 0.6);
+    height: 325px;
     max-width: 400px;
+}
+.gig-form textarea {
+    height: 140px;
+    width: 315px;
+    margin-left: 5px;
 }
 
 .checkbox-album {
@@ -155,14 +162,15 @@ a:hover{
 }
 
 #join-button {  
-     margin-top: 20px;
-    border-radius: 2px;
-    padding: 15px 32px 15px 32px;
-    text-align: center;
-    font-size: 100%;
+    
     background-color: #305244;
     color: #fafafa;
-    display: block;
+    bottom: 0;
+    right: 0;
+    margin-left: 5px;
+    border-radius: 6px;
+    padding: 15px 32px 15px 32px;
+    
 }
 
 .band-photo {
@@ -185,14 +193,17 @@ a:hover{
 }
 
 footer {
+    
     background-color: #E74323;
     position: relative;
     bottom: 0;
     left: 0;
-    width: 100%
+    width: 100%;
+    text-align: center;
 }
 .social-networks {
     font-size: xxx-large;
+    margin:0 auto;
     padding: 10px;
     text-decoration: none;
     text-align: center;
