@@ -149,6 +149,22 @@ a:hover{
     max-width: 400px;
 }
 
+.checkbox-album {
+    display: inline-block;
+    
+}
+
+#join-button {  
+     margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: #305244;
+    color: #fafafa;
+    display: block;
+}
+
 .band-photo {
     clear:right;
     background-image: url("../images/cult-called-man-band.jpg");
