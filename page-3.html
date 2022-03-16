@@ -26,18 +26,71 @@
                 <!-- using this id as i have a second list else where-->
                 <li><a href="index.html">Home</a></li>
                 <li><a href="page-2.html">Discography</a></li>
-                <li><a href="page-3.html">Sign up for gig information</a></li>
+                <li><a href="page-3.html">Contact</a></li>
             </ul>
         </nav>
 
     </header>
-    </header>
+    
     <main>
-        <section>
-            <article>
-                <p>This article for something</p>
-            </article>
+        <section id="signup">
+            <h3>Sign up for gig information</h3>
+            <div class="signup-form">
+                <form class="gig-form">
+    
+                    <label for="fname">First Name</label>
+                    <input id="fname" name="first_name" type="text" required>
+    
+                    <label for="lname">Last Name</label>
+                    <input id="lname" name="last_name" type="text" required>
+    
+                    <label for="email">Email Address</label>
+                    <input type="email" id="email" name="email_address" required>
+                    <br>
+    
+                    <p><b>your favorite album</b></p>
+                    <div class="checkbox-album">
+    
+                        <label for="fav-album">Shot me (it's just TV)
+                            <input id="shot-me" name="shot-me" value="shot-me" type="checkbox" />
+                        </label>
+    
+                        <label for="fav-album">Wickyr Mice
+                            <input id="wickyr-mice" name="wickyr-mice" value="wickyr-mice" type="checkbox" />
+                        </label>
+    
+                        <label for="fav-album">Mr.Wednesdae
+                            <input id="mr.wednesdae" name="mr.wednesdae" value="mr.wednesdae" type="checkbox" />
+                        </label>
+                        <label for="fav-album">Make It Easy
+                            <input id="make-it-easy" name="make-it-easy" value="make-it-easy" type="checkbox" />
+                        </label>
+                        <label for="fav-album">Cult Fiction
+                            <input id="cult-fiction-album" name="cult-fiction-album" value="cult-fiction-album"
+                                type="checkbox" />
+                        </label>
+                        <label for="fav-album">World Of Worlds
+                            <input id="world-of-worlds" name="world-of-worlds" value="world-of-worlds" type="checkbox" />
+                        </label>
+                        <br>
+                        <label for="fav-album">Shut Up And Glo
+                            <input id="shut-up-and-glo" name="shut-up-and-glo" value="shut-up-and-glo" type="checkbox" />
+                        </label>
+                        <label for="fav-album">Trash King
+                            <input id="trash-king" name="trash-king" value="trash-king" type="checkbox" />
+                        </label>
+                    </div>
+                    <br>
+    
+                    <textarea name="contact-box" placeholder="Leave a message"></textarea>
+    
+                    <input id="join-button" type="submit" value="Let's Rock">
+                </form>
+            </div>
+            <div class="band-photo">
+            </div>
         </section>
+        
     </main>
     <footer>
         <p>This will be at the bottom</p>
