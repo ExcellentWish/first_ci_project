@@ -63,7 +63,7 @@ a:hover{
 /* Start of main body*/
 
 #cult-fiction {
-    height: 550px;
+    height: 600px;
     max-width: 100%;
    
  }
@@ -85,12 +85,17 @@ a:hover{
     padding-top: 30px;
     width: 25%;
     float: left;
+    clear:both;
+    line-height: 20px;
+    margin-bottom: 50px;
 }
 
 .right-paragraph {
     padding-top: 30px;
     width: 25%;
     float: right;
+    line-height: 20px;
+   
 }
 .center-video{
     width: 25%;
@@ -214,10 +219,19 @@ footer {
     display: inline-block;
     padding: 10px 50px;
 }
-  /* Anything udner 1024px */
-@media screen and (max-width: 1024px) {
+  /* Anything udner 1200px */
+@media screen and (max-width: 1200px) {
     .album-covers {
       --num-cols: 2;
       --row-height: 200px;
     }
+    #info-summary{
+        width:65%;
+        height:1200px;
+        margin:0 auto;
+    }
+    .left-paragraph, .right-paragraph {
+        width:65%
+    }
+    
   }
