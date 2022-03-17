@@ -306,6 +306,12 @@ footer {
 
   }
   @media screen and (max-width: 500px) {
+      #cult-fiction{
+          height: 345px;
+      }
+      .cult-theme{
+          height:425px;
+      }
     .album-covers {
         width:120%;
       --num-cols: 2;
