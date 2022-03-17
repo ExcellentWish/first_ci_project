@@ -119,6 +119,7 @@ a:hover{
 #discography h2{
     margin-top: 0;
     padding-top: 4rem;
+    width: 100%s;
    
   }
 
@@ -139,14 +140,14 @@ a:hover{
     
 }
 
-.album-covers > img {
-    width: 100%;
-    height: 100%;
+.album-covers  img {
+    width: 225px;
+    height: 225px;
     object-fit: cover;
   }
   
   #signup{
-    margin-top: 5rem;
+    margin-top: 2.2rem;
     width: inherit;
 }
 .signup-form p {
@@ -244,7 +245,7 @@ footer {
     }
     
     .album-covers {
-        width:inherit;
+        width:50%;
       --num-cols: 2;
       --row-height: 200px;
     }
@@ -280,4 +281,14 @@ footer {
     footer{
         clear:both;
     }
+  }
+  /*for phone browsing*/
+  @media screen and (max-width: 900px) {
+    header{
+        position: fixed;
+    }
+    nav {
+        width: 100%;
+    }
+
   }
