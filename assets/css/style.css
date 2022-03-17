@@ -245,14 +245,12 @@ footer {
     
     .album-covers {
         width:50%;
-        gap:5px;
       --num-cols: 2;
-      --row-height: 100px;
-      margin-left: 65px;
+      --row-height: 200px;
     }
     .album-photo{
-        height:130%;
-        width: 140%;
+        height:50%;
+        width: 50%;
     }
     #info-summary{
         width:65%;
@@ -293,18 +291,7 @@ footer {
         width: 100%;
     }
 
-    #discography h2  {
-        margin-left: 10px;
-    }
-    #discography p  {
-        margin-left: 10px;
-    }
-
-    .album-covers  img {
-        width: 75%;
-        height: 75%;
-        object-fit: cover;
-      }
+    
    
     .band-photo {
         clear:left;
@@ -317,4 +304,17 @@ footer {
        width:100%;
     }
 
+  }
+  @media screen and (max-width: 500px) {
+    .album-covers {
+        width:120%;
+      --num-cols: 2;
+      --row-height: 220px;
+    }
+    .album-covers  img {
+        width: 130%;
+        height: 140%;
+        object-fit: cover;
+      }
+      
   }
