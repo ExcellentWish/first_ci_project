@@ -186,6 +186,7 @@ a:hover{
 }
 
 .checkbox-album {
+    text-align: justify;
     display: inline-block;
     margin: 5px 0 20px 0;
     
@@ -250,6 +251,7 @@ footer {
     }
     #discography{
         clear: left;
+        margin-right: -3%;
     }
     #cult-fiction{
         height: 600px;
@@ -299,7 +301,7 @@ footer {
         clear:both;
     }
   }
-  /*for phone browsing*/
+  /*for Tablet browsing*/
   @media screen and (max-width: 900px) {
     header{
         position: fixed;
@@ -327,7 +329,21 @@ footer {
     }
 
   }
+  /*Iphone XR sizes*/
   @media screen and (max-width: 500px) {
+      #info-summary{
+          margin-left: 100px;
+      }
+      .left-paragraph{
+          margin-bottom: 10px;
+      }
+    .center-video{
+        margin:-50px;
+    }
+    .center-video p{
+        padding-bottom:50px
+    }
+
       #cult-fiction{
           height: 345px;
       }
@@ -335,14 +351,26 @@ footer {
           height:425px;
       }
     .album-covers {
-        width:120%;
+        width:160%;
       --num-cols: 2;
       --row-height: 220px;
+        gap:15px;
+        margin: -90px;
     }
     .album-covers  img {
         width: 130%;
         height: 140%;
         object-fit: cover;
+        
       }
-      
+      #signup h3{
+        margin-left: 100px;
+    }
+      .gig-form{
+        margin-left: 0px;
+        padding-bottom: 13em;
+    } 
+    .band-photo{
+        margin:0 auto;
+    }
   }
