@@ -1,5 +1,5 @@
 /* imported cabin from google fonts*/
-@import url('https://fonts.googleapis.com/css2?family=Cabin:ital@0;1&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital@0;1&display=swap');
 
 * {
     margin: 0;
@@ -7,31 +7,34 @@
     border: none;
 }
 
-body{
-    background-color: #C8CBAC; 
+body {
+    background-color: #C8CBAC;
     font-family: cabin, sans-serif;
-    
+
 }
-h2,h3{
+
+h2,
+h3 {
     text-transform: uppercase;
 }
 
-header{
+header {
     background-color: #95C5AB;
     width: 100%;
-    height: 60px; 
+    height: 60px;
     top: 0;
-    position: fixed;    
+    position: fixed;
     text-transform: uppercase;
-    
+
 }
+
 #home-link {
     float: left;
-    display: inline; 
+    display: inline;
     margin-left: 4px;
     margin-top: 4px;
     background-color: #95C5AB;
-   }
+}
 
 /* want to move the nav location like the love running*/
 #menu {
@@ -40,11 +43,11 @@ header{
     background-color: #95C5AB;
 }
 
-#menu li{
-    
-    display: inline-block; 
-    
-    
+#menu li {
+
+    display: inline-block;
+
+
 }
 
 #list-menu {
@@ -54,13 +57,16 @@ header{
 }
 
 a {
-    color: #000; /*temporary color*/
+    color: #000;
+    /*temporary color*/
     text-decoration: none;
 }
 
-a:hover{
-    color: #000fff; /*temporary color*/
+a:hover {
+    color: #000fff;
+    /*temporary color*/
 }
+
 /* Start of main body*/
 
 #cult-fiction {
@@ -68,18 +74,20 @@ a:hover{
     max-width: 100%;
     margin-bottom: 0;
     padding-bottom: 0;
-   
- }
- .cult-theme{
+
+}
+
+.cult-theme {
     height: 550px;
     width: 100%;
-     background-image: url('../images/cult-called-man-landscape.jpg');
-     background-repeat: no-repeat;
-     background-position: center center;
-     background-size: 100%;
-  
- }
- /* information parts*/
+    background-image: url('../images/cult-called-man-landscape.webp');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100%;
+
+}
+
+/* information parts*/
 #info-summary {
     margin: 0 auto;
     padding-top: -10px;
@@ -89,7 +97,7 @@ a:hover{
     padding-top: 30px;
     width: 25%;
     float: left;
-    clear:both;
+    clear: both;
     line-height: 20px;
     margin-bottom: 50px;
 }
@@ -99,29 +107,31 @@ a:hover{
     width: 25%;
     float: right;
     line-height: 20px;
-   
+
 }
-.center-video{
+
+.center-video {
     width: 25%;
-    margin: 0 auto;  
-    
+    margin: 0 auto;
+
 }
 
 
 #discography {
     margin: 0 auto;
     padding-bottom: 20px;
-    color:#fff;
+    color: #fff;
     background-color: #305244;
     margin-bottom: 1px;
-    clear:left;
+    clear: left;
 }
-#discography h2{
+
+#discography h2 {
     margin-top: 0;
     padding-top: 4rem;
     width: 100%s;
-   
-  }
+
+}
 
 
 .album-covers {
@@ -129,44 +139,47 @@ a:hover{
     --gap: 5px;
     --num-cols: 4;
     --row-height: 300px;
-  
+
     box-sizing: border-box;
     padding: var(--gap);
-  
+
     display: grid;
     grid-template-columns: repeat(var(--num-cols), 1fr);
     grid-auto-rows: var(--row-height);
     gap: var(--gap);
-    
+
 }
 
-.album-covers  img {
+.album-covers img {
     width: 225px;
     height: 225px;
     object-fit: cover;
-  }
-  
-  #signup{
+}
+
+#signup {
     margin-top: 2.2rem;
     width: inherit;
 }
+
 .signup-form p {
-      text-transform: uppercase;
-      
+    text-transform: uppercase;
+
 }
+
 .gig-form {
     border: 1px solid black;
     font-weight: bold;
-    padding-bottom: 12em ;
+    padding-bottom: 12em;
     padding-right: 1em;
     padding-left: 1em;
     float: left;
     margin: 0 auto;
-    background-color: rgba(252,123,88, 0.6);
+    background-color: rgba(252, 123, 88, 0.6);
     height: 325px;
     max-width: 400px;
 }
-.gig-form >.text-inputs{
+
+.gig-form>.text-inputs {
     background-color: #fff;
     color: #000;
     width: 100%;
@@ -175,9 +188,11 @@ a:hover{
     border: 1px solid #000;
     border-radius: 2px;
 }
-.text-inputs:hover{
-    background-color:#fff;
+
+.text-inputs:hover {
+    background-color: #fff;
 }
+
 .gig-form textarea {
     height: 140px;
     width: 315px;
@@ -189,11 +204,11 @@ a:hover{
     text-align: justify;
     display: inline-block;
     margin: 5px 0 20px 0;
-    
+
 }
 
-#join-button {  
-    
+#join-button {
+
     background-color: #305244;
     color: #fafafa;
     bottom: 0;
@@ -201,176 +216,206 @@ a:hover{
     margin-left: 5px;
     border-radius: 6px;
     padding: 15px 32px 15px 32px;
-    
+
 }
 
 .band-photo {
-    clear:right;
-    background-image: url("../images/cult-called-man-band.jpg");
-    height: 300px;
-    width: 50%;
-    border:1px solid black;
+    clear: right;
+    background-image: url("../images/cult-called-man-band.webp");
+    height: 350px;
+    width: 44%;
+    border: 1px solid black;
     border-top: 5px;
     padding-bottom: 50px;
     padding-left: 10rem;
-    
+
     border-radius: 50%;
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 100%;
-    margin:0 auto;
-    margin-right: 0;
-    
+    margin: 0 auto;
+    margin-right: 15px;
+
 }
 
 footer {
-    
+
     background-color: #E74323;
     position: bottom;
-    
+
     width: 100%;
     text-align: center;
 }
+
 .social-networks {
     font-size: xxx-large;
-    margin-top:170px;
+    margin-top: 170px;
     padding: 10px;
     text-decoration: none;
     text-align: center;
-    list-style: none;    
+    list-style: none;
 }
 
 .social-networks li {
     display: inline-block;
     padding: 10px 50px;
 }
-  /* Anything udner 1200px */
+
+/* Anything udner 1200px */
 @media screen and (max-width: 1200px) {
-    header{
+    header {
         position: fixed;
     }
-    #discography{
+
+    #discography {
         clear: left;
         margin-right: -3%;
     }
-    #cult-fiction{
+
+    #cult-fiction {
         height: 600px;
         width: 100%;
     }
-    .cult-theme{
+
+    .cult-theme {
         width: 100%;
     }
-    
+
     .album-covers {
-        width:50%;
-      --num-cols: 2;
-      --row-height: 200px;
-      --gap: 90px;
+        width: 50%;
+        --num-cols: 2;
+        --row-height: 200px;
+        --gap: 90px;
     }
-    .album-photo{
-        height:50%;
+
+    .album-photo {
+        height: 50%;
         width: 50%;
     }
-    #info-summary{
-        width:65%;
-        height:900px;
-        margin:0 auto;
+
+    #info-summary {
+        width: 65%;
+        height: 900px;
+        margin: 0 auto;
     }
-    .left-paragraph, .right-paragraph {
-        width:inherit;
+
+    .left-paragraph,
+    .right-paragraph {
+        width: inherit;
         text-align: center;
         float: left;
-        padding:0;
+        padding: 0;
     }
-    .center-video{
+
+    .center-video {
         clear: both;
         width: 100%;
-        float:left;
-        
+        float: left;
+
     }
-    #signup{
+
+    #signup {
         margin-top: 1rem;
         width: inherit;
     }
+
     .band-photo {
-        clear:left;
+        clear: left;
         float: left;
         width: 50%;
     }
-    footer{
-        clear:both;
+
+    footer {
+        clear: both;
     }
-  }
-  /*for Tablet browsing*/
-  @media screen and (max-width: 900px) {
-    header{
+}
+
+/*for Tablet browsing*/
+@media screen and (max-width: 900px) {
+    header {
         position: fixed;
     }
+
     nav {
         width: 100%;
     }
-    #signup h3{
+
+    #signup h3 {
         margin-left: 200px;
     }
-   .gig-form{
-       margin-left: 200px;
-   } 
-   
+
+    .gig-form {
+        margin-left: 200px;
+    }
+
     .band-photo {
-        clear:left;
+        clear: left;
         float: left;
         padding-top: 120px;
         margin-left: 100px;
         height: 88%;
         width: 58%;
     }
-    footer{
-       width:100%;
+
+    footer {
+        width: 100%;
     }
 
-  }
-  /*Iphone XR sizes*/
-  @media screen and (max-width: 500px) {
-      #info-summary{
-          margin-left: 100px;
-      }
-      .left-paragraph{
-          margin-bottom: 10px;
-      }
-    .center-video{
-        margin:-50px;
-    }
-    .center-video p{
-        padding-bottom:50px
-    }
+}
 
-      #cult-fiction{
-          height: 345px;
-      }
-      .cult-theme{
-          height:425px;
-      }
-    .album-covers {
-        width:160%;
-      --num-cols: 2;
-      --row-height: 220px;
-        gap:15px;
-        margin: -90px;
-    }
-    .album-covers  img {
-        width: 130%;
-        height: 140%;
-        object-fit: cover;
-        
-      }
-      #signup h3{
+/*Iphone XR sizes*/
+@media screen and (max-width: 500px) {
+
+
+    #info-summary {
         margin-left: 100px;
     }
-      .gig-form{
+
+    .left-paragraph {
+        margin-bottom: 10px;
+    }
+
+    .center-video {
+        margin: -50px;
+    }
+
+    .center-video p {
+        padding-bottom: 50px
+    }
+
+    #cult-fiction {
+        height: 345px;
+    }
+
+    .cult-theme {
+        height: 425px;
+    }
+
+    .album-covers {
+        width: 120%;
+        --num-cols: 2;
+        --row-height: 220px;
+        gap: 15px;
+        margin: -40px;
+    }
+
+    .album-covers img {
+        width: 180%;
+        height: 140%;
+        object-fit: cover;
+
+    }
+
+    #signup h3 {
+        margin-left: 100px;
+    }
+
+    .gig-form {
         margin-left: 0px;
         padding-bottom: 13em;
-    } 
-    .band-photo{
-        margin:0 auto;
     }
-  }
+
+    .band-photo {
+        margin: 0 auto;
+    }
+}

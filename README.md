@@ -53,7 +53,7 @@ LO5 Test and deploy a front-end web application to a Cloud platform
 html ,css
 Google fonts [cabin](https://fonts.google.com/specimen/Cabin?query=cabin)
 font awsome [script for footer](https://fontawesome.com/kits/0f96215e04/use)
-Bitly for shorter urls for iframe
+convert jpg to webp
 -------------
 ---------------
 ### Testing section
@@ -62,6 +62,7 @@ issue with header h1 position - removed float left with chrome dev tools and add
 Issue with nav links not going to top right of the page -
 images in Discography differnt sizes - fix upload with same resolution
 header nav would overlap discography- fix by adding margin and padding top
+chrome dev tools to adjust sizing of pic
 
 -----------------------
 -----------------------------
