@@ -90,7 +90,7 @@ a:hover {
 /* information parts*/
 #info-summary {
     margin: 0 auto;
-    padding-top: -10px;
+    
 }
 
 #info-summary hr {
@@ -133,7 +133,7 @@ a:hover {
 #discography h2 {
     margin-top: 0;
     padding-top: 4rem;
-    width: 100%s;
+    width: 100%;
 
 }
 
@@ -245,7 +245,7 @@ a:hover {
 footer {
 
     background-color: #E74323;
-    position: bottom;
+   bottom: 0;
 
     width: 100%;
     text-align: center;
