@@ -83,7 +83,7 @@ Credits
 Google fonts [cabin](https://fonts.google.com/specimen/Cabin?query=cabin)
 [Font awesome](https://fontawesome.com/kits/0f96215e04/use)for social media
 Love Running
-css grid for images https://www.youtube.com/watch?v=rnhoY5Cdmy0 codepen.io https://codepen.io/dcode-software/pen/GRmBQYV
+css grid for images https://www.youtube.com/watch?v=rnhoY5Cdmy0 from dcode 
 "content were code was found"  
 "Media"
 "Were pictures were found" 
