@@ -58,13 +58,13 @@ header {
 
 a {
     color: #000;
-    
+
     text-decoration: none;
 }
 
 a:hover {
     color: #000fff;
-   
+
 }
 
 /* start of main body*/
@@ -92,6 +92,7 @@ a:hover {
     margin: 0 auto;
     padding-top: -10px;
 }
+
 #info-summary hr {
     border: 1px solid black;
 }
@@ -273,6 +274,7 @@ footer {
     #discography {
         clear: left;
         margin-right: -3%;
+        width: 110%;
     }
 
     #cult-fiction {
@@ -281,7 +283,7 @@ footer {
     }
 
     .cult-theme {
-        width: 100%;
+        width: 105%;
     }
 
     .album-covers {
@@ -342,6 +344,7 @@ footer {
     nav {
         width: 100%;
     }
+    
 
     #signup h3 {
         margin-left: 200px;
