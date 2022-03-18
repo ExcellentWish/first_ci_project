@@ -58,17 +58,17 @@ header {
 
 a {
     color: #000;
-    /*temporary color*/
+    
     text-decoration: none;
 }
 
 a:hover {
     color: #000fff;
-    /*temporary color*/
+   
 }
 
-/* Start of main body*/
-
+/* start of main body*/
+/*backgorund image on top of the page*/
 #cult-fiction {
     height: 600px;
     max-width: 100%;
@@ -91,6 +91,9 @@ a:hover {
 #info-summary {
     margin: 0 auto;
     padding-top: -10px;
+}
+#info-summary hr {
+    border: 1px solid black;
 }
 
 .left-paragraph {
@@ -116,7 +119,7 @@ a:hover {
 
 }
 
-
+/* second section*/
 #discography {
     margin: 0 auto;
     padding-bottom: 20px;

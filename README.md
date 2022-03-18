@@ -35,7 +35,7 @@ LO5 Test and deploy a front-end web application to a Cloud platform
 * As a site user, I want to be able to easily navigate through the site and find the information I am looking for. 
 * As a site user, I want to be able to view the site on all my devices.
 * As a site user, I want to be satisfied with the information provided.
-* As a site user, I want to be able to find contact information and the location of last gig.
+* As a site user, I want to be able to find contact information.
 * As a site user, I want to be able to find social media links easily.
 
 ### Strategy
