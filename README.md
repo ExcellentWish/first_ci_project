@@ -62,7 +62,8 @@ issue with header h1 position - removed float left with chrome dev tools and add
 Issue with nav links not going to top right of the page -
 images in Discography differnt sizes - fix upload with same resolution
 header nav would overlap discography- fix by adding margin and padding top
-chrome dev tools to adjust sizing of pic
+pictures not the right sizes chrome dev tools to adjust sizing of pic
+media screen and max witdth creats a space in tablet view
 
 -----------------------
 -----------------------------
