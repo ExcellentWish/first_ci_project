@@ -227,7 +227,9 @@ footer {
 @media screen and (max-width: 1200px) {
     header {
         position: fixed;
-    }
+        z-index: 1;
+     }
+    
     #discography {
         clear: left;
         margin-right: -3%;
@@ -238,7 +240,9 @@ footer {
         width: 100%;
     }
     .cult-theme {
+        height: 690px;
         width: 105%;
+        position: relative;
     }
     .cover-text{
         width: 391px;
@@ -299,9 +303,6 @@ footer {
 
 /*for Tablet browsing*/
 @media screen and (max-width: 900px) {
-    header {
-        position: fixed;
-    }
     nav {
         width: 100%;
     }
@@ -323,8 +324,12 @@ footer {
         width: 100%;
     }
 }
+
 /*Iphone XR sizes*/
 @media screen and (max-width: 500px) {
+    #menu li {
+        display: inline;
+    }
     .cover-text{
         font-size: 50%;
         width: 196px;
@@ -338,8 +343,9 @@ footer {
         position: absolute;
     }
     #info-summary {
-        margin-left: 100px;
-        margin-top: 0px;
+        width: 65%;
+        height: 900px;
+        margin: 0 auto;
     }
     .left-paragraph {
         margin-bottom: 10px;
