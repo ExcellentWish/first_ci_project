@@ -63,7 +63,8 @@ Issue with nav links not going to top right of the page -
 images in Discography differnt sizes - fix upload with same resolution
 header nav would overlap discography- fix by adding margin and padding top
 pictures not the right sizes chrome dev tools to adjust sizing of pic
-media screen and max witdth creats a space in tablet view
+media screen and max witdth creats a space in tablet view fix by adjusting width
+lighthouse on mobile 86 changed css font import link to htim link 
 
 -----------------------
 -----------------------------
