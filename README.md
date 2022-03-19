@@ -2,12 +2,36 @@
 My website [live here](https://)
 
 ## Project Portfolio 1- HTML and CSS Essentials - Code Institute.
+### Site Overview
 
 The project will cover  my favorite music group.
 Its aim is to highlight there music and social media presence.
-
 The idea of the project is to showcase there music to fans and newbies while making it as user friendly as I can.
-Cult Called Man an Irish retro pop rock group. I want to have a place were fans and newbies can get all of the bands music in one place as they are found on different websites online. I want to tell people of my favorite Irish band and let them listen to them and if they wanted they can sign up for a gig guide that would be sent to there email.
+Cult Called Man an Irish retro pop rock group from Co.Meath Ireland and have a very unique sound fo them that is upbeat and melencholy.
+# Table of Contents
++ [Site Overview](#site-overview)
++ [User Experience](#user-experience)
+  + [Strategy](#strategy)
+  + [Scope](#scope)
+  + [Structure](#structure)
+  + [Skeleton](#skeleton)
+  + [Surface](#surface)
+  + [Tech used](#tech-used)
+  + [Testing](#testing)
+  + [Deployment](#deployment)
+  + [Credits](#credits)
+  + [Acknowledgement](#acknowledgement)
+   
++
+# User Experience
+* As a site user, I want to be able to easily navigate through the site and find the information I am looking for. 
+* As a site user, I want to be able to view the site on all my devices.
+* As a site user, I want to be satisfied with the information provided.
+* As a site user, I want to be able to find contact information.
+* As a site user, I want to be able to find social media links easily.
+
+### Strategy
+ I want to have a place were fans and newbies can get all of the bands music in one place as they are found on different websites online. I want to tell people of my favorite Irish band and let them listen to them and if they wanted they can sign up for a gig guide that would be sent to there email.
 
 I want to achieve an easy and convient place for people to find all of the bands music. I want to tell people of there music by having a discography, so the user can click and have there music. I will be using the bands bandcamp website, Spotify and Youtube. I will have there links to social media platforms
 
@@ -21,24 +45,6 @@ LO2 Develop and implement a static front-end web application using HTML and CSS
 LO3 Maximise future maintainability through documentation, code structure and organisation
 LO4 Use version control software to maintain, upload and share code with other developers.
 LO5 Test and deploy a front-end web application to a Cloud platform
-
-# Table of Contents
-+ [User Experience](#user-experience)
-  + [Strategy](#strategy)
-  + [Scope](#scope)
-  + [Structure](#structure)
-  + [Skeleton](#skeleton)
-  + [Surface](#surface)
-   
-+
-# User Experience
-* As a site user, I want to be able to easily navigate through the site and find the information I am looking for. 
-* As a site user, I want to be able to view the site on all my devices.
-* As a site user, I want to be satisfied with the information provided.
-* As a site user, I want to be able to find contact information.
-* As a site user, I want to be able to find social media links easily.
-
-### Strategy
 #### Site Owners Goals 
 
 ### Scope
@@ -90,6 +96,6 @@ css grid for images https://www.youtube.com/watch?v=rnhoY5Cdmy0 from dcode
 "Were pictures were found" 
 Pictures from bandcamp website.
 ------
-##### Acknoledge who helped 
+##### Acknowledgement Acknoledge who helped 
 
 
