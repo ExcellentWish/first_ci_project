@@ -270,7 +270,6 @@ footer {
         width: 65%;
         height: 900px;
         margin: 0 auto;
-        margin-top: -115px;
     }
     .left-paragraph,
     .right-paragraph {
@@ -278,7 +277,7 @@ footer {
         text-align: center;
         float: left;
         padding: 0;
-        margin-bottom: 0px;
+        margin-top: 165px;
     }
     .center-video {
         clear: both;
@@ -306,6 +305,17 @@ footer {
     nav {
         width: 100%;
     }
+    #info-summary{
+     margin-top: -200px;   
+    }
+    .left-paragraph, .right-paragraph{
+        padding: 60px;
+        width: inherit;
+        text-align: center;
+        float: left;
+        padding: 0;
+               
+   }
     #signup h3 {
         margin-left: 200px;
     }
@@ -350,6 +360,7 @@ footer {
     .left-paragraph {
         margin-bottom: 10px;
     }
+    
     .center-video {
         margin: -50px;
     }
