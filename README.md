@@ -8,19 +8,22 @@ The project will cover  my favorite music group.
 Its aim is to highlight there music and social media presence.
 The idea of the project is to showcase there music to fans and newbies while making it as user friendly as I can.
 Cult Called Man an Irish retro pop rock group from Co.Meath Ireland and have a very unique sound fo them that is upbeat and melencholy.
+
+![Am I responsive screenshot](docs/screenshots/am-i-responsive.JPG)
+
 # Table of Contents
 + [Site Overview](#site-overview)
 + [User Experience](#user-experience)
-  + [Strategy](#strategy)
-  + [Scope](#scope)
-  + [Structure](#structure)
-  + [Skeleton](#skeleton)
-  + [Surface](#surface)
-  + [Tech used](#tech-used)
-  + [Testing](#testing)
-  + [Deployment](#deployment)
-  + [Credits](#credits)
-  + [Acknowledgement](#acknowledgement)
++ [Strategy](#strategy)
++ [Scope](#scope)
++ [Structure](#structure)
++ [Skeleton](#skeleton)
++ [Surface](#surface)
++ [Tech used](#tech-used)
++ [Testing](#testing)
++ [Deployment](#deployment)
++ [Credits](#credits)
++ [Acknowledgement](#acknowledgement)
    
 +
 # User Experience
