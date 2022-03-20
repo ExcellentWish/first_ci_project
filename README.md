@@ -13,6 +13,7 @@ Cult Called Man an Irish retro pop rock group from Co.Meath Ireland and have a v
 
 # Table of Contents
 + [Site Overview](#site-overview)
++ [Planning stage](#planning-stage)
 + [User Experience](#user-experience)
 + [Strategy](#strategy)
 + [Scope](#scope)
@@ -25,15 +26,38 @@ Cult Called Man an Irish retro pop rock group from Co.Meath Ireland and have a v
 + [Credits](#credits)
 + [Acknowledgement](#acknowledgement)
    
-+
-# User Experience
+# **Planning stage**
+## Target Audiences:
+* Users looking for new music from Ireland.
+* Users with a general interest in Cult Called Man and want to learn more.
+* Users who have never heard of Cult Called Man.
+* Users who have heard of Cult Called Man but would like to find more information.
+
+## User Experience
 * As a site user, I want to be able to easily navigate through the site and find the information I am looking for. 
 * As a site user, I want to be able to view the site on all my devices.
 * As a site user, I want to be satisfied with the information provided.
 * As a site user, I want to be able to find contact information.
 * As a site user, I want to be able to find social media links easily.
 
-### Strategy
+## Site Aims:
+* To educate the user on Cult Called Man's music.
+* To offer the user a chance to listen to the band.
+* To offer the user a way to contact the site author for further information or discussion.
+* To offer a way to analyse which album is fans favorite.
+
+## How Is This Will Be Achieved:
+* The index page provides the user with a summary of the band, with a way to listen to the bands music and a way to contact them. I will also include a check box to find out which is there most popular album.
+
+* The site will provide free ways to listen to there music with links to there bandcamp and spotify so users can listen to their music.
+
+* The site will have information on the type of band this is and genre of music they play. It will have their music playing on the website with a video.
+
+* The site will have links to their social media platforms
+
+* The site will have a contact us form were users can find more information on the band.
+
+# Strategy
  I want to have a place were fans and newbies can get all of the bands music in one place as they are found on different websites online. I want to tell people of my favorite Irish band and let them listen to them and if they wanted they can sign up for a gig guide that would be sent to there email.
 
 I want to achieve an easy and convient place for people to find all of the bands music. I want to tell people of there music by having a discography, so the user can click and have there music. I will be using the bands bandcamp website, Spotify and Youtube. I will have there links to social media platforms
@@ -50,22 +74,22 @@ LO4 Use version control software to maintain, upload and share code with other d
 LO5 Test and deploy a front-end web application to a Cloud platform
 #### Site Owners Goals 
 
-### Scope
-### Skeleton
-### Structure
-### Surface
+# Scope
+# Skeleton
+# Structure
+# Surface
 
 --------------------------------------
 ---------------------------------------
 
-## Tech used 
+# Tech used 
 html ,css
 Google fonts [cabin](https://fonts.google.com/specimen/Cabin?query=cabin)
 font awsome [script for footer](https://fontawesome.com/kits/0f96215e04/use)
 convert jpg to webp
 -------------
 ---------------
-### Testing section
+## Testing section
 Used a temporary red background-color in css to test my css links
 issue with header h1 position - removed float left with chrome dev tools and added posisiton
 Issue with nav links not going to top right of the page -
@@ -85,7 +109,7 @@ Using [Validator W3](https://validator.w3.org/)
 and CSS using [Jigsaw validator](https://jigsaw.w3.org/css-validator/)
 -----------------------------------
 -----------------------------
-#### Deployment
+# Deployment
 I deployed the page on GitHub pages via the following procedure: -
 
 1. From the project's [repository](https://github.com/ExcellentWish/first_html_css_ci_project), go to the **Settings** tab.
@@ -96,7 +120,7 @@ I deployed the page on GitHub pages via the following procedure: -
 You  can find the live site via the following URL - [Cult Called Man](https://excellentwish.github.io/first_html_css_ci_project/)
 -----------
 -------------
-Credits 
+# Credits 
 Google fonts [cabin](https://fonts.google.com/specimen/Cabin?query=cabin)
 [Font awesome](https://fontawesome.com/kits/0f96215e04/use)for social media
 Love Running
@@ -105,7 +129,8 @@ css grid for images https://www.youtube.com/watch?v=rnhoY5Cdmy0 from dcode
 "Media"
 "Were pictures were found" 
 Pictures from bandcamp website.
-------
-##### Acknowledgement Acknoledge who helped 
+
+
+# Acknowledgement 
 
 
