@@ -316,6 +316,9 @@ footer {
         padding: 0;
                
    }
+   .right-paragraph{
+       margin-top: 0px;
+   }
     #signup h3 {
         margin-left: 200px;
     }
@@ -355,7 +358,7 @@ footer {
     #info-summary {
         width: 65%;
         height: 900px;
-        margin: 0 auto;
+        margin-top: -150px;
     }
     .left-paragraph {
         margin-bottom: 10px;
