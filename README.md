@@ -64,7 +64,11 @@ To organize my thoughts and prevent scope creep, I created wireframes for this p
  [Contact html](docs/wireframes/contact-us-wireframe.JPG)
 
 * Mobile
-
+ [Overview](docs/wireframes/mobile-overview.JPG)
+ [Index](docs/wireframes/moblie-home.JPG)
+ [Discography](docs/wireframes/mobile-discography.JPG)
+ [Contact and footer](docs/wireframes/contact-footer-mobile.JPG)
+ 
 # Strategy
  I want to have a place were fans and newbies can get all of the bands music in one place as they are found on different websites online. I want to tell people of my favorite Irish band and let them listen to them and if they wanted they can sign up for a gig guide that would be sent to there email.
 
