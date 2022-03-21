@@ -14,7 +14,6 @@ Cult Called Man an Irish retro pop rock group from Co.Meath Ireland and have a v
 # Table of Contents
 + [Site Overview](#site-overview)
 + [Planning stage](#planning-stage)
-+ [User Experience](#user-experience)
 + [Strategy](#strategy)
 + [Scope](#scope)
 + [Structure](#structure)
@@ -56,6 +55,15 @@ Cult Called Man an Irish retro pop rock group from Co.Meath Ireland and have a v
 * The site will have links to their social media platforms
 
 * The site will have a contact us form were users can find more information on the band.
+
+## Wireframes
+To organize my thoughts and prevent scope creep, I created wireframes for this project. Below are links to each of the mobile and desktop versions.
+ * Desktop
+ [Index html](docs/wireframes/index-wireframe.JPG)
+ [Discography html](docs/wireframes/discography-wireframe.JPG)
+ [Contact html](docs/wireframes/contact-us-wireframe.JPG)
+
+* Mobile
 
 # Strategy
  I want to have a place were fans and newbies can get all of the bands music in one place as they are found on different websites online. I want to tell people of my favorite Irish band and let them listen to them and if they wanted they can sign up for a gig guide that would be sent to there email.
