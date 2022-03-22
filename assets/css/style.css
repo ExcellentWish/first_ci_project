@@ -399,4 +399,7 @@ footer {
     .band-photo {
         margin: 0 auto;
     }
+    .social-networks{
+        width:100%;
+    }
 }
