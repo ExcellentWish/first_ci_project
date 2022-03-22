@@ -104,6 +104,7 @@ Lets start with the header.
 
 This **header** has the navigation and title of the website. Also we have the album Cult Fiction as our hero image. Like in Code Institute love running project. 
 We can see the bright colors from the album being used in the website.
+I had used 3 html pages but found that the was not enough content to fill 3 separate pages, so I split the pages into 3 sections for the user.
 
 Next we the **information section** of the web page. This has some basic information on the type of music they play and a brief introduction to the band.
 ![Cult called man informtion](docs/screenshots/Cult-information.JPG)
@@ -111,6 +112,7 @@ Next we the **information section** of the web page. This has some basic informa
 Again we have a light background with a dark font to allow user accessibility.
 
 **Discography** is a main feature if the website. Again to contrast I used a dark background with a white font. But this has all of there music available in 1 convient place to find there album. A future feature would be to have the music able to play on the website. These are images unlike the other background images, these images will have aria labelled to help improve my score in lighthouse.
+We created a grid with help from Youtube. The Youtuber is [Dcodes]( https://www.youtube.com/watch?v=rnhoY5Cdmy0)
 
 ![Cult-discography](docs/screenshots/cult-discography.JPG)
 
@@ -120,21 +122,7 @@ Again we have a light background with a dark font to allow user accessibility.
 **Footer** will be logos of other social media platforms. These are also aria labelled like the images in the discography and all links are working.
 ![cult footer](docs/screenshots/cult-footer.JPG)
 
-I want to achieve an easy and convient place for people to find all of the bands music. I want to tell people of there music by having a discography, so and Youtube. I will have there links to 
 
-With the  of the site. I will have it in one page for the convenience of the user. This will also be quicker then changing from differnt pages. I will lock the header with a navigation bar that will follow the user across the page so the user can navigate the page easily.
-
-I will present the information by using pictures and video. This way the user can see the type of band they are listening too. I will be using the theme of there Cult Fiction album across the page as they are bright colours that contrast nicely and are easy to look at from a users perspective. Cult Fiction is also there most popular album so it may be recognisable to users who are fans of the band already.
-LO1
-Design a front-end web application based on the principles of user experience design,
-accessibility and responsivity
-LO2 Develop and implement a static front-end web application using HTML and CSS
-LO3 Maximise future maintainability through documentation, code structure and organisation
-LO4 Use version control software to maintain, upload and share code with other developers.
-LO5 Test and deploy a front-end web application to a Cloud platform
-
---------------------------------------
----------------------------------------
 
 # Tech used 
  For this project I used HTML and CSS.
@@ -142,30 +130,40 @@ LO5 Test and deploy a front-end web application to a Cloud platform
  I used Google fonts [cabin](https://fonts.google.com/specimen/Cabin?query=cabin) for the style of the writing. 
  I used font awsome [script for footer](https://fontawesome.com/kits/0f96215e04/use) social media links as this seem to be the standard with websites.
  I used [Ezgif](https://ezgif.com/jpg-to-webpconvert) to convert jpg to webp to help improve my score in light house.
+ Css grid from [Dcode youtube](https://www.youtube.com/watch?v=rnhoY5Cdmy0)
 -------------
 ---------------
 ## Testing section
-Used a temporary red background-color in css to test my css links
-issue with header h1 position - removed float left with chrome dev tools and added posisiton
-Issue with nav links not going to top right of the page -
-images in Discography differnt sizes - fix upload with same resolution
-header nav would overlap discography- fix by adding margin and padding top
-pictures not the right sizes chrome dev tools to adjust sizing of pic
-media screen and max witdth creats a space in tablet view fix by adjusting width
-lighthouse on mobile 86 changed css font import link to htim link 
+Used a temporary red background-color in css to test my css links when setting up my Html.
 
-Tested on Samsung galaxy 8+, iphone pro 12, iphone xr, ipad air , ipad mini
+I had an issue with header h1 position. I removed float left with chrome dev tools and used posisiton fixed and z-index to fix the header.
 
------------------------
------------------------------
-After what bugs there were and fixs
-removed "/" from /assets/css/style.css to assets/css/style.css so git pages would work
+Issue with navigation links not going to top right of the page - Fixed by adjusting the margin.
 
-Validator testing
+Images in Discography differnt sizes. I fixed this with windows photos using the resize option.
+
+The Header and navigation would overlap discography. I fixed this with chrome dev tools by adding margin and padding top.
+
+The pictures were not the right sizes. I chrome dev tools to adjust sizing of pictures in the grid for the discography.
+
+Media screen and max width created a space in tablet view. I fixed by adjusting width to 100%
+
+Lighthouse score for mobile was 80, I converted the jpg files to webp and it increased my score to 86. 
+
+Removed "/" from /assets/css/style.css to assets/css/style.css so git pages would work.
+
+Tested Using Samsung Galaxy 8+, Iphone pro 12, Iphone XR, Ipad Air and Ipad Mini
+
+Current Lighthouse results for desktop.
+![Lighthouse Desktop](docs/lighthouse/lighthouse-report-desktop.JPG)
+
+And Lighthouse mobile
+![Lighthouse mobile](docs/lighthouse/lighthouse-report-mobile.JPG)
+
+Validator testing used.
 Using [Validator W3](https://validator.w3.org/)
 and CSS using [Jigsaw validator](https://jigsaw.w3.org/css-validator/)
------------------------------------
------------------------------
+
 # Deployment
 I deployed the page on GitHub pages via the following procedure: -
 
@@ -190,4 +188,16 @@ Pictures from bandcamp website.
 
 
 
+I want to achieve an easy and convient place for people to find all of the bands music. I want to tell people of there music by having a discography, so and Youtube. I will have there links to 
+
+With the  of the site. I will have it in one page for the convenience of the user. This will also be quicker then changing from differnt pages. I will lock the header with a navigation bar that will follow the user across the page so the user can navigate the page easily.
+
+I will present the information by using pictures and video. This way the user can see the type of band they are listening too. I will be using the theme of there Cult Fiction album across the page as they are bright colours that contrast nicely and are easy to look at from a users perspective. Cult Fiction is also there most popular album so it may be recognisable to users who are fans of the band already.
+LO1
+Design a front-end web application based on the principles of user experience design,
+accessibility and responsivity
+LO2 Develop and implement a static front-end web application using HTML and CSS
+LO3 Maximise future maintainability through documentation, code structure and organisation
+LO4 Use version control software to maintain, upload and share code with other developers.
+LO5 Test and deploy a front-end web application to a Cloud platform
 
