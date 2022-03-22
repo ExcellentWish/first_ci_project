@@ -8,6 +8,7 @@ The project will cover  my favorite music group.
 Its aim is to highlight there music and social media presence.
 The idea of the project is to showcase there music to fans and newbies while making it as user friendly as I can.
 Cult Called Man an Irish retro pop rock group from Co.Meath Ireland and have a very unique sound fo them that is upbeat and melencholy.
+ I want to have a place were fans and newbies can get all of the bands music in one place as they are found on different websites online. I want to tell people of my favorite Irish band and let them listen to them and if they wanted they can contact them.
 
 ![Am I responsive screenshot](docs/screenshots/am-i-responsive.JPG)
 
@@ -25,7 +26,7 @@ Cult Called Man an Irish retro pop rock group from Co.Meath Ireland and have a v
 + [Credits](#credits)
 + [Acknowledgement](#acknowledgement)
    
-# **Planning stage**
+# **Planning stage**- Strategy
 ## Target Audiences:
 * Users looking for new music from Ireland.
 * Users with a general interest in Cult Called Man and want to learn more.
@@ -69,12 +70,29 @@ To organize my thoughts and prevent scope creep, I created wireframes for this p
  [Discography](docs/wireframes/mobile-discography.JPG)
  [Contact and footer](docs/wireframes/contact-footer-mobile.JPG)
  
-# Strategy
- I want to have a place were fans and newbies can get all of the bands music in one place as they are found on different websites online. I want to tell people of my favorite Irish band and let them listen to them and if they wanted they can sign up for a gig guide that would be sent to there email.
+ Color Scheme
+ We want a familiarity for the user and fans. Using the color scheme from there album Cult Fiction we can create that familiarity. They are bright colors and have the users accessibility in mind. 
+![coolors colors](docs/screenshots/coolors-colours.JPG)
 
-I want to achieve an easy and convient place for people to find all of the bands music. I want to tell people of there music by having a discography, so the user can click and have there music. I will be using the bands bandcamp website, Spotify and Youtube. I will have there links to social media platforms
 
-With the structure of the site. I will have it in one page for the convenience of the user. This will also be quicker then changing from differnt pages. I will lock the header with a navigation bar that will follow the user across the page so the user can navigate the page easily.
+# **Whats on the table?** - The Scope
+The header element sticks to the top of the page as the user scrolls up and down.It contains the navigation links and sticky header would provide a more pleasant UX and adhere to popular conventions better.
+discography-Anchor Tags  bandcamp website, Spotify
+footer -social media platforms
+Theme
+Typography
+
+# **Organization and functionality** The Structure
+Bout the page
+
+# **The Actual website** -The Surface
+
+
+
+
+I want to achieve an easy and convient place for people to find all of the bands music. I want to tell people of there music by having a discography, so the user can click and have there music. I will be using the bands bandcamp website, Spotify and Youtube. I will have there links to 
+
+With the  of the site. I will have it in one page for the convenience of the user. This will also be quicker then changing from differnt pages. I will lock the header with a navigation bar that will follow the user across the page so the user can navigate the page easily.
 
 I will present the information by using pictures and video. This way the user can see the type of band they are listening too. I will be using the theme of there Cult Fiction album across the page as they are bright colours that contrast nicely and are easy to look at from a users perspective. Cult Fiction is also there most popular album so it may be recognisable to users who are fans of the band already.
 LO1
@@ -84,12 +102,6 @@ LO2 Develop and implement a static front-end web application using HTML and CSS
 LO3 Maximise future maintainability through documentation, code structure and organisation
 LO4 Use version control software to maintain, upload and share code with other developers.
 LO5 Test and deploy a front-end web application to a Cloud platform
-#### Site Owners Goals 
-
-# Scope
-# Skeleton
-# Structure
-# Surface
 
 --------------------------------------
 ---------------------------------------
