@@ -97,9 +97,28 @@ To organize my thoughts and prevent scope creep, I created wireframes for this p
 **Typography** used will be cabin as I think it fits the style of the band, and also san-serif for not compatiable browsers.
 
 # The Actual website
+I want to achieve an easy and convient place for people to find all of the bands music and information. I want to tell people of there music by having a discography. I want a brief summary of the band and I want a way to contact them.
 
+Lets start with the header.
+![Cult called man header](docs/screenshots/cult-called-man-header.JPG)
 
+This **header** has the navigation and title of the website. Also we have the album Cult Fiction as our hero image. Like in Code Institute love running project. 
+We can see the bright colors from the album being used in the website.
 
+Next we the **information section** of the web page. This has some basic information on the type of music they play and a brief introduction to the band.
+![Cult called man informtion](docs/screenshots/Cult-information.JPG)
+
+Again we have a light background with a dark font to allow user accessibility.
+
+**Discography** is a main feature if the website. Again to contrast I used a dark background with a white font. But this has all of there music available in 1 convient place to find there album. A future feature would be to have the music able to play on the website. These are images unlike the other background images, these images will have aria labelled to help improve my score in lighthouse.
+
+![Cult-discography](docs/screenshots/cult-discography.JPG)
+
+**The contact section** will have a easy lay out that will require the user to enter there name and email address. But also adding checkboxes of the albums can provide a way for the band to analyse which album people like the most and help them find the direction where they want to take there music.
+![Cult contact form](docs/screenshots/cult-contact.JPG)
+
+**Footer** will be logos of other social media platforms. These are also aria labelled like the images in the discography and all links are working.
+![cult footer](docs/screenshots/cult-footer.JPG)
 
 I want to achieve an easy and convient place for people to find all of the bands music. I want to tell people of there music by having a discography, so and Youtube. I will have there links to 
 
