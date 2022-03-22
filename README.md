@@ -16,7 +16,7 @@ Cult Called Man an Irish retro pop rock group from Co.Meath Ireland and have a v
 + [Site Overview](#site-overview)
 + [Planning stage](#planning-stage)
 + [Whats on the table](#whats-on-the-table?)
-+ [Organization and functionality](#organization-and-functionality)
++ [Features](#Features:)
 + [The Actual website](#The-Actual-website)
 + [Tech used](#tech-used)
 + [Testing](#testing)
@@ -74,17 +74,21 @@ To organize my thoughts and prevent scope creep, I created wireframes for this p
 ![coolors colors](docs/screenshots/coolors-colours.JPG)
 
 
-# Whats on the table?
+# Whats on the table? The Features:
 
 **The header element** sticks to the top of the page as the user scrolls up and down. It contains the navigation links and sticky header would provide a more pleasant UX and adhere to popular conventions better.
 
 **The navigation** will be in the header, having both the the band name and a home button in the header seem to be the industry standard.
 
-**The Cult theme** Is like the hero image in lover running. This will also give the general theme of the website to the user as it is bright colors that contrast with each other.
+**The Cult theme** Is like the hero image in lover running. This will also give the general theme of the website to the user as it is bright colors that contrast with each other. Its from there album Cult ficiton as it has bright contrasting colors and will provide accessablilty to the users.
+
 
 **The information** on the page is found through the internet from interviews the band had with https://www.breakingtunes.com/cultcalledman and from https://www.postpravdamagazine.com/four-up-coming-irish-acts/?fbclid=IwAR2zmFfPo2vifrUows6bTzwNSGFj-Qgi_5f-ouU0TpY5MJuAkj4jMvGe0FA.
 
-**Discography** will be located under the main infromation of the page will link all of the band music from other websites into one easy to mange place.Using anchor tags to link to there bandcamp website and there spotify.
+**The Video** is from there youtube channel. The song is from the same album and the song is called Bad seeds. It will be  muted and autoplay will be off, so that we dont irritate the users and also provide a headphone warning before playing. As this is a rock band website it is probably more important to be carefull with users hearing.
+
+**Discography** will be located under the main infromation of the page will link all of the band music from other websites into one easy to mange place.Using anchor tags to link to there bandcamp website and there spotify. It will let the user click and have the bands music avaliable to them. I will be using the bands bandcamp website and Spotify so we can bring all of there music to 1 website.
+
 
 **Contact** will be an easy to use form people can use if they have questions for the band and I can also include a way to analyse what the fans favorite songs were to find out which of there albums is doing the best.
 
@@ -92,18 +96,12 @@ To organize my thoughts and prevent scope creep, I created wireframes for this p
 
 **Typography** used will be cabin as I think it fits the style of the band, and also san-serif for not compatiable browsers.
 
-# Features:
-
-**Theme** will be from there album Cult ficiton as it has bright contrasting colors and will provide accessablilty to the users.
-
-
-
 # The Actual website
 
 
 
 
-I want to achieve an easy and convient place for people to find all of the bands music. I want to tell people of there music by having a discography, so the user can click and have there music. I will be using the bands bandcamp website, Spotify and Youtube. I will have there links to 
+I want to achieve an easy and convient place for people to find all of the bands music. I want to tell people of there music by having a discography, so and Youtube. I will have there links to 
 
 With the  of the site. I will have it in one page for the convenience of the user. This will also be quicker then changing from differnt pages. I will lock the header with a navigation bar that will follow the user across the page so the user can navigate the page easily.
 
@@ -120,10 +118,11 @@ LO5 Test and deploy a front-end web application to a Cloud platform
 ---------------------------------------
 
 # Tech used 
-html ,css
-Google fonts [cabin](https://fonts.google.com/specimen/Cabin?query=cabin)
-font awsome [script for footer](https://fontawesome.com/kits/0f96215e04/use)
-convert jpg to webp
+ For this project I used HTML and CSS.
+ I used code from Dcode from youtube to make a grid for the discography. 
+ I used Google fonts [cabin](https://fonts.google.com/specimen/Cabin?query=cabin) for the style of the writing. 
+ I used font awsome [script for footer](https://fontawesome.com/kits/0f96215e04/use) social media links as this seem to be the standard with websites.
+ I used [Ezgif](https://ezgif.com/jpg-to-webpconvert) to convert jpg to webp to help improve my score in light house.
 -------------
 ---------------
 ## Testing section
