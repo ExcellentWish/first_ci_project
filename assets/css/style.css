@@ -19,6 +19,7 @@ header {
     height: 60px;
     top: 0;
     position: fixed;
+    z-index: 1;
     text-transform: uppercase;
 }
 #home-link {
@@ -36,6 +37,7 @@ header {
 }
 #menu li {
     display: inline-block;
+    margin-right: 4px;
 }
 #list-menu {
     line-height: 60px;
@@ -313,7 +315,9 @@ footer {
         width: 100%;
     }
     #info-summary{
-     margin-top: -200px;   
+     margin-top: -200px; 
+     margin-left: 185px;  
+     width: 80%;
     }
     .left-paragraph, .right-paragraph{
         padding: 60px;
@@ -326,6 +330,12 @@ footer {
    }
    .right-paragraph{
        margin-top: 0px;
+   }
+   .center-video{
+       margin-left: 100px;
+   }
+   #discography{
+       width: 120%;
    }
     #signup h3 {
         margin-left: 200px;
@@ -347,12 +357,12 @@ footer {
         clear: left;
         float: left;
         padding-top: 120px;
-        margin-left: 160px;
+        margin-left: 170px;
         height: 100%;
-        width: 70%;
+        width: 80%;
     }
     footer {
-        width: 110%;
+        width: 120%;
     }
 }
 

@@ -25,7 +25,6 @@ Cult Called Man an Irish retro pop rock group from Co.Meath Ireland and have a v
 
    
 # Planning stage
-## **Strategy**
 ### Target Audiences:
 * Users looking for new music from Ireland.
 * Users with a general interest in Cult Called Man and want to learn more.
@@ -58,16 +57,17 @@ Cult Called Man an Irish retro pop rock group from Co.Meath Ireland and have a v
 
 ## Wireframes
 To organize my thoughts and prevent scope creep, I created wireframes for this project. Below are links to each of the mobile and desktop versions.
- * Desktop
- [Index html](docs/wireframes/index-wireframe.JPG)
- [Discography html](docs/wireframes/discography-wireframe.JPG)
- [Contact html](docs/wireframes/contact-us-wireframe.JPG)
 
-* Mobile
- [Overview](docs/wireframes/mobile-overview.JPG)
- [Index](docs/wireframes/moblie-home.JPG)
- [Discography](docs/wireframes/mobile-discography.JPG)
- [Contact and footer](docs/wireframes/contact-footer-mobile.JPG)
+  Desktop
+ * [Index html](docs/wireframes/index-wireframe.JPG)
+ * [Discography html](docs/wireframes/discography-wireframe.JPG)
+ * [Contact html](docs/wireframes/contact-us-wireframe.JPG)
+
+ Mobile
+ * [Overview](docs/wireframes/mobile-overview.JPG)
+ * [Index](docs/wireframes/moblie-home.JPG)
+ * [Discography](docs/wireframes/mobile-discography.JPG)
+ * [Contact and footer](docs/wireframes/contact-footer-mobile.JPG)
  
  Color Scheme
  We want a familiarity for the user and fans. Using the color scheme from there album Cult Fiction we can create that familiarity. They are bright colors and have the users accessibility in mind. 
@@ -76,7 +76,11 @@ To organize my thoughts and prevent scope creep, I created wireframes for this p
 
 # Whats on the table?
 
-The header element sticks to the top of the page as the user scrolls up and down.It contains the navigation links and sticky header would provide a more pleasant UX and adhere to popular conventions better.
+**The header element** sticks to the top of the page as the user scrolls up and down. It contains the navigation links and sticky header would provide a more pleasant UX and adhere to popular conventions better.
+
+The navigation will be in the header, having both the the band name and a 
+
+**Discography** will be located under
 
 discography-Anchor Tags  bandcamp website, Spotify
 footer -social media platforms
