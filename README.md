@@ -152,6 +152,8 @@ Lighthouse score for mobile was 80, I converted the jpg files to webp and it inc
 
 Removed "/" from /assets/css/style.css to assets/css/style.css so git pages would work.
 
+Removed background image from a webp to a jpg for a better image quality. Changed [Cult-called-man-band.webp](assets/images/cult-called-man-band.webp) to [Cult-Called-man-band.jpg](assets/images/cult-called-man-band.jpg)
+
 Tested Using Samsung Galaxy 8+, Iphone pro 12, Iphone XR, Ipad Air and Ipad Mini
 
 Current Lighthouse results for desktop.
@@ -173,31 +175,19 @@ I deployed the page on GitHub pages via the following procedure: -
 4. A message will be displayed to indicate a successful deployment to GitHub pages and provide the live link.
 
 You  can find the live site via the following URL - [Cult Called Man](https://excellentwish.github.io/first_html_css_ci_project/)
------------
--------------
+
 # Credits 
+My Mentor Rahul Lakhanpal who helped me develop this project.
+To David Bowers for his webinar on project portfolio 1 and his [Github](https://github.com/dnlbowers)
+To Dcode and his [Youtube](https://www.youtube.com/watch?v=rnhoY5Cdmy0) channel for help with the grid.
+To Anna Greaves and her Love Running [project](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode)
+## Media
 Google fonts [cabin](https://fonts.google.com/specimen/Cabin?query=cabin)
 [Font awesome](https://fontawesome.com/kits/0f96215e04/use)for social media
-Love Running
-css grid for images https://www.youtube.com/watch?v=rnhoY5Cdmy0 from dcode 
-"content were code was found"  
-"Media"
-"Were pictures were found" 
-Pictures from bandcamp website.
 
-
-
-
-I want to achieve an easy and convient place for people to find all of the bands music. I want to tell people of there music by having a discography, so and Youtube. I will have there links to 
-
-With the  of the site. I will have it in one page for the convenience of the user. This will also be quicker then changing from differnt pages. I will lock the header with a navigation bar that will follow the user across the page so the user can navigate the page easily.
-
-I will present the information by using pictures and video. This way the user can see the type of band they are listening too. I will be using the theme of there Cult Fiction album across the page as they are bright colours that contrast nicely and are easy to look at from a users perspective. Cult Fiction is also there most popular album so it may be recognisable to users who are fans of the band already.
-LO1
-Design a front-end web application based on the principles of user experience design,
-accessibility and responsivity
-LO2 Develop and implement a static front-end web application using HTML and CSS
-LO3 Maximise future maintainability through documentation, code structure and organisation
-LO4 Use version control software to maintain, upload and share code with other developers.
-LO5 Test and deploy a front-end web application to a Cloud platform
+Photos are from Cult called man [bandcamp](https://cultcalledman.bandcamp.com/music)
+Videos are from there youtube [channel](https://www.youtube.com/cultcalledman)
+ 
+ Thank you to Cult Called Man for the insperation for this project.
+  
 
