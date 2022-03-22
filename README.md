@@ -15,8 +15,8 @@ Cult Called Man an Irish retro pop rock group from Co.Meath Ireland and have a v
 # Table of Contents
 + [Site Overview](#site-overview)
 + [Planning stage](#planning-stage)
-+ [Strategy](#strategy)
-+ [Scope](#scope)
++ [Whats on the table?](#whats-on-the-table?)
++ [Organization and functionality](#organization-and-functionality)
 + [Structure](#structure)
 + [Skeleton](#skeleton)
 + [Surface](#surface)
