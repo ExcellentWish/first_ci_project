@@ -15,8 +15,7 @@ Cult Called Man an Irish retro pop rock group from Co.Meath Ireland and have a v
 # Table of Contents
 + [Site Overview](#site-overview)
 + [Planning stage](#planning-stage)
-+ [Whats on the table](#whats-on-the-table?)
-+ [Features](#Features:)
++ [Whats on the table?](#whats-on-the-table?)
 + [The Actual website](#The-Actual-website)
 + [Tech used](#tech-used)
 + [Testing](#testing)
@@ -74,7 +73,7 @@ To organize my thoughts and prevent scope creep, I created wireframes for this p
 ![coolors colors](docs/screenshots/coolors-colours.JPG)
 
 
-# Whats on the table? The Features:
+# Whats on the table?
 
 **The header element** sticks to the top of the page as the user scrolls up and down. It contains the navigation links and sticky header would provide a more pleasant UX and adhere to popular conventions better.
 
@@ -125,15 +124,20 @@ We created a grid with help from Youtube. The Youtuber is [Dcodes]( https://www.
 
 
 # Tech used 
+
  For this project I used HTML and CSS.
+
  I used code from Dcode from youtube to make a grid for the discography. 
+
  I used Google fonts [cabin](https://fonts.google.com/specimen/Cabin?query=cabin) for the style of the writing. 
+
  I used font awsome [script for footer](https://fontawesome.com/kits/0f96215e04/use) social media links as this seem to be the standard with websites.
+
  I used [Ezgif](https://ezgif.com/jpg-to-webpconvert) to convert jpg to webp to help improve my score in light house.
+
  Css grid from [Dcode youtube](https://www.youtube.com/watch?v=rnhoY5Cdmy0)
--------------
----------------
-## Testing section
+
+# Testing
 Used a temporary red background-color in css to test my css links when setting up my Html.
 
 I had an issue with header h1 position. I removed float left with chrome dev tools and used posisiton fixed and z-index to fix the header.
