@@ -382,11 +382,11 @@ footer {
         --num-cols: 2;
         --row-height: 220px;
         gap: 15px;
-        margin: -40px;
+        margin: -70px;
     }
     .album-covers img {
-        width: 180%;
-        height: 140%;
+        width: 220%;
+        height: 150%;
         object-fit: cover;
     }
     #signup h3 {
