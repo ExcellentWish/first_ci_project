@@ -15,8 +15,8 @@ Cult Called Man an Irish retro pop rock group from Co.Meath Ireland and have a v
 # Table of Contents
 + [Site Overview](#site-overview)
 + [Planning stage](#planning-stage)
-+ [Whats on the table?](#whats-on-the-table?)
-+ [The Actual website](#The-Actual-website)
++ [What's on the table?](#what's-on-the-table?)
++ [Actual website](#Actual-website)
 + [Tech used](#tech-used)
 + [Testing](#testing)
 + [Deployment](#deployment)
@@ -73,7 +73,7 @@ To organize my thoughts and prevent scope creep, I created wireframes for this p
 ![coolors colors](docs/screenshots/coolors-colours.JPG)
 
 
-# Whats on the table?
+# What's on the table?
 
 **The header element** sticks to the top of the page as the user scrolls up and down. It contains the navigation links and sticky header would provide a more pleasant UX and adhere to popular conventions better.
 
@@ -95,7 +95,7 @@ To organize my thoughts and prevent scope creep, I created wireframes for this p
 
 **Typography** used will be cabin as I think it fits the style of the band, and also san-serif for not compatiable browsers.
 
-# The Actual website
+# Actual website
 I want to achieve an easy and convient place for people to find all of the bands music and information. I want to tell people of there music by having a discography. I want a brief summary of the band and I want a way to contact them.
 
 Lets start with the header.
