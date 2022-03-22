@@ -78,17 +78,25 @@ To organize my thoughts and prevent scope creep, I created wireframes for this p
 
 **The header element** sticks to the top of the page as the user scrolls up and down. It contains the navigation links and sticky header would provide a more pleasant UX and adhere to popular conventions better.
 
-The navigation will be in the header, having both the the band name and a 
+**The navigation** will be in the header, having both the the band name and a home button in the header seem to be the industry standard.
 
-**Discography** will be located under
+**The Cult theme** Is like the hero image in lover running. This will also give the general theme of the website to the user as it is bright colors that contrast with each other.
 
-discography-Anchor Tags  bandcamp website, Spotify
-footer -social media platforms
-Theme
-Typography
+**The information** on the page is found through the internet from interviews the band had with https://www.breakingtunes.com/cultcalledman and from https://www.postpravdamagazine.com/four-up-coming-irish-acts/?fbclid=IwAR2zmFfPo2vifrUows6bTzwNSGFj-Qgi_5f-ouU0TpY5MJuAkj4jMvGe0FA.
 
-# Organization and functionality
-Bout the page
+**Discography** will be located under the main infromation of the page will link all of the band music from other websites into one easy to mange place.Using anchor tags to link to there bandcamp website and there spotify.
+
+**Contact** will be an easy to use form people can use if they have questions for the band and I can also include a way to analyse what the fans favorite songs were to find out which of there albums is doing the best.
+
+**Footer** will include there social media links and an all right reserved section for the website.
+
+**Typography** used will be cabin as I think it fits the style of the band, and also san-serif for not compatiable browsers.
+
+# Features:
+
+**Theme** will be from there album Cult ficiton as it has bright contrasting colors and will provide accessablilty to the users.
+
+
 
 # The Actual website
 
