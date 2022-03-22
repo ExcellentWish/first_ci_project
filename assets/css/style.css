@@ -374,7 +374,8 @@ footer {
         height: 345px;
     }
     .cult-theme {
-        height: 425px;
+        height: 420px;
+        width: 105%;
     }
     .album-covers {
         width: 120%;
