@@ -15,9 +15,9 @@ Cult Called Man an Irish retro pop rock group from Co.Meath Ireland and have a v
 # Table of Contents
 + [Site Overview](#site-overview)
 + [Planning stage](#planning-stage)
-+ [Whats on the table?](#whats-on-the-table?)
-+ [Organization and functionality](#organization-and-functionality)
-+ [Structure](#structure)
++ [Whats on the table](#whats-on-the-table?)
++ [Organization and functionality The Structure](#**Organization-and-functionality**-The-Structure)
++ [The Actual website](#**The-Actual-website**-The-Surface)
 + [Skeleton](#skeleton)
 + [Surface](#surface)
 + [Tech used](#tech-used)
@@ -26,8 +26,9 @@ Cult Called Man an Irish retro pop rock group from Co.Meath Ireland and have a v
 + [Credits](#credits)
 + [Acknowledgement](#acknowledgement)
    
-# **Planning stage**- Strategy
-## Target Audiences:
+# Planning stage
+## **Strategy**
+### Target Audiences:
 * Users looking for new music from Ireland.
 * Users with a general interest in Cult Called Man and want to learn more.
 * Users who have never heard of Cult Called Man.
@@ -75,8 +76,10 @@ To organize my thoughts and prevent scope creep, I created wireframes for this p
 ![coolors colors](docs/screenshots/coolors-colours.JPG)
 
 
-# **Whats on the table?** - The Scope
+# Whats on the table?
+## **The Scope**
 The header element sticks to the top of the page as the user scrolls up and down.It contains the navigation links and sticky header would provide a more pleasant UX and adhere to popular conventions better.
+
 discography-Anchor Tags  bandcamp website, Spotify
 footer -social media platforms
 Theme
@@ -122,6 +125,8 @@ header nav would overlap discography- fix by adding margin and padding top
 pictures not the right sizes chrome dev tools to adjust sizing of pic
 media screen and max witdth creats a space in tablet view fix by adjusting width
 lighthouse on mobile 86 changed css font import link to htim link 
+
+Tested on Samsung galaxy 8+, iphone pro 12, iphone xr, ipad air , ipad mini
 
 -----------------------
 -----------------------------
