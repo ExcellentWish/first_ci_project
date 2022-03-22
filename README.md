@@ -16,15 +16,13 @@ Cult Called Man an Irish retro pop rock group from Co.Meath Ireland and have a v
 + [Site Overview](#site-overview)
 + [Planning stage](#planning-stage)
 + [Whats on the table](#whats-on-the-table?)
-+ [Organization and functionality The Structure](#**Organization-and-functionality**-The-Structure)
-+ [The Actual website](#**The-Actual-website**-The-Surface)
-+ [Skeleton](#skeleton)
-+ [Surface](#surface)
++ [Organization and functionality](#organization-and-functionality)
++ [The Actual website](#The-Actual-website)
 + [Tech used](#tech-used)
 + [Testing](#testing)
 + [Deployment](#deployment)
 + [Credits](#credits)
-+ [Acknowledgement](#acknowledgement)
+
    
 # Planning stage
 ## **Strategy**
@@ -77,7 +75,7 @@ To organize my thoughts and prevent scope creep, I created wireframes for this p
 
 
 # Whats on the table?
-## **The Scope**
+
 The header element sticks to the top of the page as the user scrolls up and down.It contains the navigation links and sticky header would provide a more pleasant UX and adhere to popular conventions better.
 
 discography-Anchor Tags  bandcamp website, Spotify
@@ -85,10 +83,10 @@ footer -social media platforms
 Theme
 Typography
 
-# **Organization and functionality** The Structure
+# Organization and functionality
 Bout the page
 
-# **The Actual website** -The Surface
+# The Actual website
 
 
 
@@ -160,6 +158,6 @@ css grid for images https://www.youtube.com/watch?v=rnhoY5Cdmy0 from dcode
 Pictures from bandcamp website.
 
 
-# Acknowledgement 
+
 
 
