@@ -188,6 +188,6 @@ Google fonts [cabin](https://fonts.google.com/specimen/Cabin?query=cabin)
 Photos are from Cult called man [bandcamp](https://cultcalledman.bandcamp.com/music)
 Videos are from there youtube [channel](https://www.youtube.com/cultcalledman)
  
- Thank you to Cult Called Man for the insperation for this project.
+ Thank you to Cult Called Man for the inspiration for this project.
   
 
