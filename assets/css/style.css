@@ -380,8 +380,8 @@ footer {
     .album-covers {
         width: 120%;
         --num-cols: 2;
-        --row-height: 220px;
-        gap: 15px;
+        --row-height: 200px;
+        gap: 20px;
         margin: -70px;
     }
     .album-covers img {
